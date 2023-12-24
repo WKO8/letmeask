@@ -10,7 +10,7 @@ import { database } from '../services/firebase'
 import { Button } from '../components/Button'
 import { useAuth } from '../hooks/useAuth'
 
-import '../styles/auth.css'
+import '../styles/auth.scss'
 
 
 export function Home() {
